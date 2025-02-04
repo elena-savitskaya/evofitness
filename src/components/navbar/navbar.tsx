@@ -4,7 +4,7 @@ import { SelectedPage } from "@/shared/types";
 import { useMediaQuery } from "@/hooks/use-media-query";
 import { ActionButton } from "@/shared/action-button";
 import { NavbarLink } from "./link";
-import LOGO_URL from "@/assets/Logo.png";
+import LOGO_URL from "@/assets/logo.png";
 
 type NavbarProps = {
   isTopOfPage: boolean;
