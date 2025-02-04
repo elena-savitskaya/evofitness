@@ -1,5 +1,6 @@
 # React + TypeScript + Vite
 
+This project is a fitness web application built with TypeScript using React and Vite. The project utilizes TailwindCSS for styling and Framer Motion for animations.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -48,11 +49,6 @@ export default tseslint.config({
   },
 })
 ```
-# Project
-
-## Description
-This project is a fitness web application built with TypeScript using React and Vite. The project utilizes TailwindCSS for styling and Framer Motion for animations.
-
 ## Project Structure
 - **React** — Library for building user interfaces.
 - **TypeScript** — Strictly typed JavaScript for reliable code.
