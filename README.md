@@ -1,8 +1,13 @@
-# EvoFitness
+# 🌐 EvoFitness
+
+## 📋 Project Overview
 
 This project is a fitness web application built with TypeScript using React and Vite. The project utilizes TailwindCSS for styling and Framer Motion for animations.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ```
+
+🚀 [**View Demo**](https://elena-savitskaya.github.io/evofitness/)
+
 ## Project Structure
 - **React** — Library for building user interfaces.
 - **TypeScript** — Strictly typed JavaScript for reliable code.
@@ -54,5 +59,8 @@ This will serve the build locally for you to check before deploying.
 ### TypeScript: Type checking ensures that the code is reliable and catches errors during development.
 ### GitHub Actions
 ### Consider setting up GitHub Actions for Continuous Integration (CI) to automatically lint, test, and deploy your application whenever changes are made.
+
+
+
 
 
