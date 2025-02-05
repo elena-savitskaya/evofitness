@@ -38,6 +38,7 @@ To start the development server with Hot Module Replacement (HMR), run:
 
 ```bash
 npm run dev
+```
 
 ### 4. Build the Project
 To build the project for production, use:
