@@ -23,7 +23,7 @@ Follow the steps below to get the project running on your local machine.
 
 ```bash
 git clone https://github.com/elena-savitskaya/evofitness.git
-
+```
 cd evofitness
 
 ### 2. Install Dependencies
@@ -31,6 +31,7 @@ Run the following command to install all the required dependencies:
 
 ```bash
 npm install
+```
 
 ### 3. Run in Development Mode
 To start the development server with Hot Module Replacement (HMR), run:
@@ -43,12 +44,14 @@ To build the project for production, use:
 
 ```bash
 npm run build
+```
 
 ### 5. Preview the Build
 You can preview the production build by running:
 
 ```bash
 npm run preview
+```
 
 This will serve the build locally for you to check before deploying.
 
