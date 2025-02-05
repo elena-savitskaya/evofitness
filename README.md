@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# EvoFitness
 
 This project is a fitness web application built with TypeScript using React and Vite. The project utilizes TailwindCSS for styling and Framer Motion for animations.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,13 +11,48 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - **Framer Motion** — Animation library.
 - **ESLint & Prettier** — Tools for maintaining code quality.
 
-## Installation and Running
+## Installation & Setup
 
-### Install Dependencies
+Follow the steps below to get the project running on your local machine.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/elena-savitskaya/evofitness.git
+
+cd evofitness
+
+### 2. Install Dependencies
+Run the following command to install all the required dependencies:
+
+```bash
 npm install
 
-### Run in Development Mode
+### 3. Run in Development Mode
+To start the development server with Hot Module Replacement (HMR), run:
+
+```bash
 npm run dev
 
-### Build the Project
+### 4. Build the Project
+To build the project for production, use:
+
+```bash
 npm run build
+
+### 5. Preview the Build
+You can preview the production build by running:
+
+```bash
+npm run preview
+
+This will serve the build locally for you to check before deploying.
+
+## Development Best Practices
+### ESLint: Ensures that your code follows consistent style and avoids bugs.
+### Prettier: Automatically formats your code according to a consistent style.
+### TypeScript: Type checking ensures that the code is reliable and catches errors during development.
+### GitHub Actions
+### Consider setting up GitHub Actions for Continuous Integration (CI) to automatically lint, test, and deploy your application whenever changes are made.
+
+
